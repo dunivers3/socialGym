@@ -17,14 +17,15 @@
 
 👤 **duncan**
 
-* Website: www.duniverseinc.com
-* Twitter: [@_duniverse](https://twitter.com/_duniverse)
-* Github: [@duniverse](https://github.com/duniverse)
-* LinkedIn: [@duniverse](https://linkedin.com/in/duniverse)
+-   Website: www.duniverseinc.com
+-   Twitter: [@\_duniverse](https://twitter.com/_duniverse)
+-   Github: [@duniverse](https://github.com/duniverse)
+-   LinkedIn: [@duniverse](https://linkedin.com/in/duniverse)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/dunivers3/socialGym/issues). You can also take a look at the [contributing guide](https://github.com/dunivers3/socialGym/pulls).
+Project looks are designed with scss to generate the styles.css file.
 
 ## Show your support
 
